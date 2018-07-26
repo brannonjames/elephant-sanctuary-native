@@ -18,4 +18,4 @@ Link to software that is required to install the app (e.g. node).
 
 ## Screen Shot
 
-Include one or two screen shots of your project here (optional). Remove if unused.
+![mobile-sanctuary-screen](https://i.imgur.com/AV49IIo.png)
